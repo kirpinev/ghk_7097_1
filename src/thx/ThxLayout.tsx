@@ -8,8 +8,8 @@ import { useEffect } from "react";
 
 export const ThxLayout = () => {
   const submit = () => {
-    window.gtag("event", "7079_get_real_sub", {
-      variant_name: "ghk_7079_1",
+    window.gtag("event", "7097_get_real_sub", {
+      variant_name: "ghk_7097_1",
     });
   };
 
