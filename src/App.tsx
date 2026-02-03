@@ -9,7 +9,7 @@ import { LS, LSKeys } from "./ls";
 import { ButtonMobile } from "@alfalab/core-components/button/mobile";
 import { List } from "@alfalab/core-components/list";
 
-const sduiLink = "alfabank://";
+const sduiLink = "https://online.alfabank.ru/debit_card_showcase?flowType=KIDS";
 
 const Redirect = () => {
   window.location.href = sduiLink;
